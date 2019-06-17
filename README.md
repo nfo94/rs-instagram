@@ -6,5 +6,5 @@ Front:
 Back:
 `yarn dev`
 
-Exemple:
+Screenshot:
 ![instagram](instaweb.png)
